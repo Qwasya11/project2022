@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+*{
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+.container{
+	width: 100%;
+}
+.header{
+	width: 100%;
+	height: 200px;
+	background: #B5ED28;
+}
+.header__title{
+	font-size: 48px;
+	font-family: Ubuntu;
+	text-align: center;
+	float: left;
+	margin: 80px 0 0 200px;
+}
+.nav{
+	width: 100%;
+	height: 80px;
+	background: #9DD60E;
+}
+.nav__navigation{
+	list-style-type: none;
+	background: ;
+}
+.nav__item{
+	width: 25%;
+	height: 60px;
+	float: left;
+	background: #86B70C;
+	margin: 10px 0 10px 40px;
+	font-size: 36px;
+	text-align: center;
+	border-radius: 30px;
+
+}
+.header__logo{
+	height: 190px;
+	margin-top: 5px;
+	margin-left: 50px;
+	float: left;
+}
+.main{
+	background: #AEE909;
+	width: 80%;
+	display: inline-block;
+
+
+}
+.main__section{
+	float: left;
+	width: 30%;
+	margin: 65px 20px;
+	height: 400px;
+}
+.list__item{
+	font-size: 20px;
+	font-family: Inter;
+	margin-left: 30px;
+}
+.main__title{
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.concept__text{
+	margin-left: 20px;
+	font-family: Inter;
+}
+
+.section__headline{
+	text-align: center;
+	margin: 0 0 40px ;
+	font-size: 30px;
+}
+.section__pg{
+	font-size: 20px;
+	font-family: Inter;
+}
+.concept__text{
+	font-size: 20px;
+	line-height: 30px;
+	font-size: 20px;
+	text-indent: 30px;
+}
+.section__text{
+	margin-bottom: 1224px;
+}
+.aside{
+	background: #86B70C;
+	float: right;
+	height: 1970px;
+	width: 20%;
+}
+.footer{
+	height: 150px;
+	background: #86B70C	;
+	clear: both;
+}
+.main__header{
+	text-align: center;
+	margin: 20px 0 0px ;
+	font-size: 34px;
+}
+.aling__img{
+	height: 700px;
+	width: 100%;
+}
+.main__purpose{
+	float: left;
+	width: 30%;
+	margin: 65px 20px;
+	height: 1663px;
+}
+.purpose__headline{
+	text-align: center;
+	margin: 0 0 40px ;
+	font-size: 30px;
+}
+.goals{
+  text-align: left;
+  font-size: 20px; 
+  margin-left: 400px; 
+}
+.my_goals{
+  margin: 0 0 1694px ;
+  font-size: 20px;
+
+}
